@@ -1,4 +1,4 @@
-# test-progress-bar-python
+# test progress bar python
 
 `python table.py`
 
